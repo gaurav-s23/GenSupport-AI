@@ -1,0 +1,32 @@
+# Don't copy virtual environments
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs folder
+logs/
+*.log
+
+# Databases (created in container only)
+*.db
+*.sqlite
+
+# API key & secrets
+.env
+
+# Large unnecessary files
+*.jpg
+*.png
+*.jpeg
+*.pdf
+
+# Git metadata
+.git
+.gitignore
+
+# IDE configs
+.vscode/
+.idea/

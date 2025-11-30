@@ -1,0 +1,26 @@
+# Core
+python-dotenv
+streamlit
+
+# LLM & LangChain
+langchain
+langchain-community
+google-generativeai
+
+# Embeddings & Vector DB
+sentence-transformers
+faiss-cpu
+
+# Document handling (for RAG)
+pypdf
+pandas
+
+# OCR
+easyocr
+torch
+torchvision
+Pillow
+
+# Utils
+tqdm
+rich
