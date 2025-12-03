@@ -1,6 +1,6 @@
 # Core
-python-dotenv
 streamlit
+python-dotenv
 
 # LLM & LangChain
 langchain
@@ -16,11 +16,18 @@ pypdf
 pandas
 
 # OCR
-easyocr
-torch
-torchvision
+easyocr==1.7.1
+torch==2.1.2
+torchvision==0.16.2
 Pillow
+
+# For SQLite + File Management
+sqlalchemy
 
 # Utils
 tqdm
 rich
+
+# Prevent known Azure Linux build conflicts
+protobuf==3.20.*
+numpy<2
