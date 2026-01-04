@@ -48,7 +48,7 @@ Relevant Help Info:
 {lang_instruction}
 
 Rules:
-- 2 to 4 short paragraphs only
+- 2 short paragraphs only
 - Be empathetic & positive
 - Add steps / solution guidance if applicable
 - DO NOT mention AI, knowledge base, intent classification, sentiment etc.
